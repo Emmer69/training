@@ -1,1 +1,3 @@
-# training
+A training management system for businesses can streamline and simplify the process of training employees and managing training-related tasks. This system covers various aspects of training, from content creation and delivery to tracking and reporting.
+Implementing a custom Training Management System (TMS) can be a game-changer for your businesses. A custom Training Management System provides training processes, enhances employee development, and boosts productivity. It ensures that training materials are up-to-date, tracks progress, and provides insightful analytics. Guruface provides online training to fill the skill gaps and meet the high demand for training. 
+https://guruface.com/training-management-system
